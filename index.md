@@ -24,8 +24,7 @@ The Travlr Getaways full-stack web application is perfect for this enhancement b
 - Improved the travel controller by using a more consistent view model and handling empty or unavailable trip data more cleanly.
 - Updated the HBS travel view and inline comments so the interface reflects controller messages properly and the code is easier to understand.
 
-- [Download Enhancement One Code](assets/files/CS-499-e1.zip)
-- [View Enhancement One Narrative](assets/files/enhancement-one-narrative.docx)
+- [View Full Code + Narrative](https://github.com/justin-n4/justin-n4.github.io/tree/main/assets/files)
 
 ---
 
