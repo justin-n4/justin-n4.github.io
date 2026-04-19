@@ -1,6 +1,4 @@
-# Justin Naimo
 
-## CS-499 Computer Science Capstone ePortfolio
 
 Welcome to my ePortfolio. This site showcases my enhancements across software design, algorithms, and databases.
 
