@@ -1,4 +1,5 @@
-
+layout: default
+title: Justin Naimo
 
 Welcome to my ePortfolio. This site showcases my enhancements across software design, algorithms, and databases.
 
