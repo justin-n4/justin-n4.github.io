@@ -1,6 +1,6 @@
 # Justin Naimo
 
-## CS-499 Computer Science Capstone | SNHU
+## CS-499 | Computer Science Capstone | SNHU
 
 This ePortfolio highlights my enhancements to the Travlr Getaways full-stack application across three key areas: software design, algorithms, and databases. I chose to focus all three enhancements on the same application because it felt more cohesive and, more importantly, gave me a better way to show a fuller understanding of computer science concepts and how they connect in a real project.
 
