@@ -22,7 +22,7 @@ At this point, I see this ePortfolio as more than just a final assignment but a 
 ## Code Review
 A full walkthrough of my original artifact, including identified design issues and areas for improvement.
 
-[Watch Code Review](Link)
+[Watch Code Review Video](https://youtu.be/Tbly0NUTzcA)
 
 ---
 
