@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # CS-499 | Computer Science Capstone | SNHU
 
 ## Self-Assessment
