@@ -79,5 +79,3 @@ The core artifact for this portfolio is the Travlr Getaways application, a MEAN-
 - Express
 - Angular
 - Node.js
-
-[View Full Project Repository](LINK)
