@@ -18,34 +18,48 @@
     }
 
     .profile-photo {
-      width: 180px;
+      width: 170px;
       border-radius: 50%;
       margin-top: 10px;
-      box-shadow: 0 0 18px rgba(255,255,255,0.25);
+      box-shadow: 0 0 18px rgba(255,255,255,0.20);
       border: 3px solid rgba(255,255,255,0.65);
     }
 
     .page-wrap {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 30px 20px 60px;
+      max-width: 950px;
+      margin: 0 auto 60px;
+      background: #ffffff;
+      color: #222222;
+      padding: 40px 50px 60px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.12);
+      border-radius: 4px;
     }
 
-    .page-wrap,
     .page-wrap p,
     .page-wrap li {
-      color: #e6e6e6;
+      color: #333333;
     }
 
     .page-wrap h1,
     .page-wrap h2,
     .page-wrap h3,
     .page-wrap h4 {
-      color: #ffffff;
+      color: #111111;
     }
 
     .page-wrap a {
-      color: #9ecbff;
+      color: #267cb9;
+    }
+
+    @media (max-width: 768px) {
+      .page-wrap {
+        padding: 25px 20px 40px;
+        margin: 0 12px 40px;
+      }
+
+      .profile-photo {
+        width: 140px;
+      }
     }
   </style>
 </head>
