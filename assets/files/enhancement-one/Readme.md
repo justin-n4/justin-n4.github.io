@@ -20,7 +20,7 @@ I also learned that improvement is rarely as clean as it sounds when you describ
 Overall, I included this artifact in my ePortfolio because it represents meaningful progress in how I approach software development. It shows that I can move beyond simply building functionality and start thinking more seriously about architecture and maintainability. The enhancement process also made me more aware of the practical trade-offs involved in software design. Sometimes the best improvement is not the flashiest one. Sometimes it makes a project easier to configure, easier to follow, and easier to troubleshoot. That's exactly what I aimed to do here, and I think this artifact reflects that growth well.
 
 
-### Example enhancement in code:
+### Example enhancement made in app_server/controllers/travel.js:
 This change replaces a hard-coded API dependency with environment-based configuration and introduces a consistent view model, improving portability, reducing coupling, and making sure predictable controller-to-view data flow.
 
 ```js
