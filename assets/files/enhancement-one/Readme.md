@@ -18,3 +18,24 @@ The process of enhancing the artifact taught me a lot, mostly because it pushed 
 I also learned that improvement is rarely as clean as it sounds when you describe it afterward. Some parts were straightforward, like moving values into environment variables and tightening comments. Other parts were a little messier. Testing failure behavior was one of the more annoying parts of the process. For example, when I temporarily stopped MongoDB to test the travel page during an outage, the behavior was not always as clean or dramatic as expected. Sometimes the app recovered once MongoDB came back up, and sometimes the error-handling path did not present itself in the browser as neatly as I thought it would. Even so, that was still useful, because it reminded me that there is a difference between designing cleaner logic and perfectly simulating every failure state in a development environment. That was probably one of the more honest lessons in this milestone. Software improvement is incremental, and even when a change is valid, the testing experience can still reveal rough edges.
 	
 Overall, I included this artifact in my ePortfolio because it represents meaningful progress in how I approach software development. It shows that I can move beyond simply building functionality and start thinking more seriously about architecture and maintainability. The enhancement process also made me more aware of the practical trade-offs involved in software design. Sometimes the best improvement is not the flashiest one. Sometimes it makes a project easier to configure, easier to follow, and easier to troubleshoot. That's exactly what I aimed to do here, and I think this artifact reflects that growth well.
+
+
+### Key enhancement in code:
+This change replaces a hard-coded API dependency with environment-based configuration and introduces a consistent view model, improving portability, reducing coupling, and making sure predictable controller-to-view data flow.
+
+```js
+const TRIPS_API_URL = process.env.TRIPS_API_URL || "http://localhost:3000/api/trips";
+
+const buildTravelViewModel = (trips = [], message = null) => ({
+  title: "Travlr Getaways",
+  trips,
+  message,
+});
+```
+
+Basic response validation was added to make sure API failures are handled explicitly rather than silently failing.
+```js
+if (!response.ok) {
+  throw new Error(`Trips API returned status ${response.status}`);
+}
+```
