@@ -39,3 +39,10 @@ if (!response.ok) {
   throw new Error(`Trips API returned status ${response.status}`);
 }
 ```
+#### Enhancements made in the following code files:
+- app.js
+- app_server/routes/index.js
+- app_server/routes/travel.js
+- app_server/controllers/main.js
+- app_server/controllers/travel.js
+- app_server/views/travel.hbs
