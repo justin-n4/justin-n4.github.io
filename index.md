@@ -39,7 +39,7 @@ For this enhancement, I focused on the logic behind how trip data is validated, 
 - Centralized API error handling in the Angular service so the same response logic is not repeated everywhere.
 - Improved the Angular edit component by handling missing trip data and error states more defensively.
 
-[View Full Code + Narrative](https://github.com/justin-n4/justin-n4.github.io/tree/main/assets/files/enhancement-three)
+[View Full Code + Narrative](https://github.com/justin-n4/justin-n4.github.io/tree/main/assets/files/enhancement-two)
 
 ---
 
