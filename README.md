@@ -1,5 +1,7 @@
-## 📸 Preview
-![Portfolio Screenshot](assets/profile.jpg)
+## Preview
+<div align="center">
+  <img src="assets/profile.jpg" alt="Portfolio Screenshot" width="120">
+</div>
 
 ## Preview
 # Justin Naimo | CS-499 ePortfolio | SNHU
