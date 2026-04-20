@@ -1,4 +1,4 @@
-# Justin Naimo | CS-499 ePortfolio | SNHU
+# Justin Naimo | CS-499 Capstone | SNHU
 This repository contains my Computer Science Capstone (CS-499) ePortfolio for Southern New Hampshire University.
 
 ## Live ePortfolio
