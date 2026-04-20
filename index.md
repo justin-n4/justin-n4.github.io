@@ -3,9 +3,7 @@ layout: default
 ---
 
 <div class="center-title">
-
-## CS-499 | Computer Science Capstone | SNHU
-
+  <h2>CS-499 | Computer Science Capstone | SNHU</h2>
 </div>
 
 ## Professional Self-Assessment
