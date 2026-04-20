@@ -1,6 +1,4 @@
-# Justin Naimo
-
-## CS-499 | Computer Science Capstone | SNHU
+# CS-499 | Computer Science Capstone | SNHU
 
 ## Self-Assessment
 Completing this ePortfolio gave me a much clearer picture of how much I’ve grown throughout the Computer Science program. When I first started, I was mainly focused on learning the material, getting through each course, and building enough confidence to keep moving forward. Over time, that shifted. I became more aware of how the different parts of computer science connect, and I started thinking less like someone trying to finish assignments and more like someone trying to build real, usable solutions. Putting this portfolio together made that even more obvious because it forced me to step back and look at the bigger picture of what I’ve actually developed.
