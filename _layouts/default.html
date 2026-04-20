@@ -4,22 +4,63 @@
   <meta charset="UTF-8">
   <title>{{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <style>
+    .custom-header {
+      text-align: center;
+      padding: 40px 20px 30px;
+    }
+
+    .custom-header h1 {
+      margin-bottom: 20px;
+      color: #ffffff;
+    }
+
+    .profile-photo {
+      width: 180px;
+      border-radius: 50%;
+      margin-top: 10px;
+      box-shadow: 0 0 18px rgba(255,255,255,0.25);
+      border: 3px solid rgba(255,255,255,0.65);
+    }
+
+    .page-wrap {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 30px 20px 60px;
+    }
+
+    .page-wrap,
+    .page-wrap p,
+    .page-wrap li {
+      color: #e6e6e6;
+    }
+
+    .page-wrap h1,
+    .page-wrap h2,
+    .page-wrap h3,
+    .page-wrap h4 {
+      color: #ffffff;
+    }
+
+    .page-wrap a {
+      color: #9ecbff;
+    }
+  </style>
 </head>
 <body>
-
-  <header style="text-align: center; padding: 40px 0;">
+  <header class="custom-header">
     <h1>{{ site.title }}</h1>
-    <img src="{{ '/assets/profile.jpg' | relative_url }}"
-         alt="Justin Naimo"
-         width="180"
-         style="border-radius: 50%; margin-top: 15px;">
+    <img
+      src="{{ '/assets/profile.jpg' | relative_url }}"
+      alt="Justin Naimo"
+      class="profile-photo"
+    >
   </header>
 
-  <main style="max-width: 900px; margin: auto;">
+  <main class="page-wrap">
     {{ content }}
   </main>
-
 </body>
 </html>
