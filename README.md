@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="assets/profile.jpg" alt="Portfolio Screenshot" width="120">
-</div>
-
-## Preview
 # Justin Naimo | CS-499 ePortfolio | SNHU
 This repository contains my Computer Science Capstone (CS-499) ePortfolio for Southern New Hampshire University.
 
