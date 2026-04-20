@@ -1,4 +1,3 @@
-## Preview
 <div align="center">
   <img src="assets/profile.jpg" alt="Portfolio Screenshot" width="120">
 </div>
