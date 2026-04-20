@@ -4,7 +4,7 @@ layout: default
 
 # CS-499 | Computer Science Capstone | SNHU
 
-## Self-Assessment
+## Professional Self-Assessment
 Completing this ePortfolio gave me a much clearer picture of how much I’ve grown throughout the Computer Science program. When I first started, I was mainly focused on learning the material, getting through each course, and building enough confidence to keep moving forward. Over time, that shifted. I became more aware of how the different parts of computer science connect, and I started thinking less like someone trying to finish assignments and more like someone trying to build real, usable solutions. Putting this portfolio together made that even more obvious because it forced me to step back and look at the bigger picture of what I’ve actually developed.
 
 Overall, my experience in the program was a good one, but it definitely was not smooth the whole way through. In fact, almost every term seemed to come with some different obstacle, whether that was a technical issue, a frustrating environment, unclear instructions, or just the pressure of balancing everything at once. Looking back, those problems ended up helping me. They forced me to become resourceful. I had to find workarounds, learn to troubleshoot, and get comfortable figuring things out when the straightforward answer was not there. That ended up being one of the most valuable parts of the program because real-world technical work is rarely perfect or neatly packaged.
@@ -66,12 +66,6 @@ This final enhancement focused on the database side of the application so the ov
 - Cleaned up controller-side database error handling for duplicate records, invalid input, and more consistent responses.
 
 [View Full Code + Narrative](https://github.com/justin-n4/justin-n4.github.io/tree/main/assets/files/enhancement-three)
-
----
-
-## Professional Self-Assessment
-
-
 
 ---
 
