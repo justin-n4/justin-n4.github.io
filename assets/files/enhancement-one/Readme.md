@@ -1,7 +1,7 @@
 
 # Enhancement One: Software Design and Engineering
 
-## Narrative
+## Narrative 
 
 For this milestone, I selected my Travlr Getaways full-stack web application as the artifact for the software design and engineering category. This project was originally developed in CS-465 and built up over multiple modules, beginning as a static Express site and gradually evolving into a fuller MEAN-style application with MVC organization, a MongoDB database, API routes, an Angular admin side, and JWT-based authentication. For this enhancement, I focused specifically on the software design and engineering side of the project by revisiting the server-side structure and improving parts of the application that affected maintainability, portability, and clarity.
 	
