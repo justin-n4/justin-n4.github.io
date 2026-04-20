@@ -24,7 +24,7 @@ The Travlr Getaways full-stack web application is perfect for this enhancement b
 - Improved the travel controller by using a more consistent view model and handling empty or unavailable trip data more cleanly.
 - Updated the HBS travel view and inline comments so the interface reflects controller messages properly and the code is easier to understand.
 
-- [[View Full Code + Narrative](https://github.com/justin-n4/justin-n4.github.io/tree/main/assets/files/enhancement-one)](https://github.com/justin-n4/justin-n4.github.io/tree/main/assets/files/enhancement-one)
+[View Full Code + Narrative](https://github.com/justin-n4/justin-n4.github.io/tree/main/assets/files/enhancement-one)
 
 ---
 
@@ -39,7 +39,7 @@ For this enhancement, I focused on the logic behind how trip data is validated, 
 - Centralized API error handling in the Angular service so the same response logic is not repeated everywhere.
 - Improved the Angular edit component by handling missing trip data and error states more defensively.
 
-[View Full Code + Narrative](LINK)
+[View Full Code + Narrative](https://github.com/justin-n4/justin-n4.github.io/tree/main/assets/files/enhancement-three)
 
 ---
 
@@ -54,7 +54,7 @@ This final enhancement focused on the database side of the application so the ov
 - Improved the user model with stronger email validation and cleaner account integrity checks.
 - Cleaned up controller-side database error handling for duplicate records, invalid input, and more consistent responses.
 
-[View Full Code + Narrative](LINK)
+[View Full Code + Narrative](https://github.com/justin-n4/justin-n4.github.io/tree/main/assets/files/enhancement-three)
 
 ---
 
